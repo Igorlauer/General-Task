@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "reactnative-onebit",
+    "slug": "reactnative-onebit",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
