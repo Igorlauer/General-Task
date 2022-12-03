@@ -1,10 +1,18 @@
 {
   "expo": {
-    "name": "reactnative-onebit",
-    "slug": "reactnative-onebit",
+    
+    "name": "Generaltask",
+    "slug": "Generaltask",
     "version": "1.0.0",
+    "icon": "Generaltask/src/img/icon.png",
+    "splash": {
+      "image": "Generaltask/src/img/splash.png",
+      "backgroundColor": "#FFFFFF"
+    },
     "assetBundlePatterns": [
       "**/*"
     ]
   }
 }
+
+
